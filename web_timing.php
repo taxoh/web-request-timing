@@ -66,7 +66,7 @@ $_POST[url]
 	else
 {
 	// $_POST = [
-		// 'url' => 'http://scripts/mycms-wp',
+		// 'url' => 'http://...',
 	// ];
 }
 ?>
